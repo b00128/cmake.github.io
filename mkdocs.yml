@@ -1,0 +1,7 @@
+site_name: CMake 笔记
+theme:
+  name: mkdocs 
+nav:
+  - 首页: index.md
+  - 基础:
+    - 语法: basics/cmake.md
